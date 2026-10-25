@@ -1,0 +1,6 @@
+{
+  "name": "Atelier — Virtual Stylist",
+  "description": "Solves what-to-wear dilemmas by analyzing any tricky statement piece and generating 3 complete, distinct flat-lay outfits for Casual, Business, and Night Out with color harmony and styling advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
